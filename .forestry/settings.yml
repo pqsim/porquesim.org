@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Pages
+  label: Contents
   create: all
   match: "*"
 - type: directory
@@ -17,7 +17,7 @@ sections:
 - type: directory
   path: content/pages
   label: Pages
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
