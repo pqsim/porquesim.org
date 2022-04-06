@@ -2,24 +2,22 @@
 URL = "/ong/aacc/"
 categories = ["ong"]
 comment = false
-draft = true
-img = "ong/horas-da-vida.jpg"
+img = "/uploads/logo-aacc-2.png"
 layout = "post"
 subtitle = "Subtítulo ..."
 tags = ["tag1", "tag2"]
 title = "AACC"
 
 +++
-Organiza uma rede de voluntariado na área da saúde para doação de consultas e exames.
+Associação de Apoio a Criança com Câncer.
 
 ## Localização da ONG
 
-Rua Ferreira de Araújo, 0
-Pinheiros - CEP 05428-000 - São Paulo - SP
+Rua Borges Lagoa, 1603  
+Vila Clementino - CEP 04038-034 - São Paulo - SP
 
 ## Contatos
 
-[contato@horasdavida.org.br](mailto:contato@horasdavida.org.br)
-[horasdavida.org.br](https://www.horasdavida.org.br)
-
-![](/uploads/logo-aacc-2.png)
+voluntariado@aacc.org.br  
+(11) 5084-5434
+[http://www.aacc.org.br/](http://www.aacc.org.br/ "http://www.aacc.org.br/")
