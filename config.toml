@@ -49,6 +49,10 @@ home = ["HTML", "RSS"]
   title =  "Sobre"
   href =  "/pages/sobre/"
 
+  [[params.addtional_menus]]
+  title =  "Inscreva-se"
+  href =  "/pages/inscreva-se/"
+
 [markup]
   [markup.tableOfContents]
     endLevel = 2
