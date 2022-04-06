@@ -1,4 +1,4 @@
-baseurl = "https://porquesim.org"
+baseurl = "https://porquesim.netlify.app"
 title = "Porque SIM"
 theme = "hugo-theme-cleanwhite"
 languageCode = "pt-BR"
