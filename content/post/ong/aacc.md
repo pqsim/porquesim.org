@@ -1,5 +1,5 @@
 +++
-URL = "/ong/horas-da-vida/"
+URL = "/ong/aacc/"
 categories = ["ong"]
 comment = false
 draft = true
@@ -21,3 +21,5 @@ Pinheiros - CEP 05428-000 - São Paulo - SP
 
 [contato@horasdavida.org.br](mailto:contato@horasdavida.org.br)
 [horasdavida.org.br](https://www.horasdavida.org.br)
+
+![](/uploads/logo-aacc-2.png)
