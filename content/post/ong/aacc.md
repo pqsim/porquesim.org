@@ -9,6 +9,8 @@ tags = ["tag1", "tag2"]
 title = "AACC"
 
 +++
+![](/uploads/logo-aacc-2.png)
+
 Associação de Apoio a Criança com Câncer.
 
 ## Localização da ONG
