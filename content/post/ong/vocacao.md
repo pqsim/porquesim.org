@@ -1,16 +1,16 @@
 +++
-URL = "/ong/aacc/"
+URL = "/ong/vocacao/"
 categories = ["ong"]
 comment = false
 draft = true
-img = "/uploads/logo-aacc-2.png"
+img = ""
 layout = "post"
-subtitle = "Subtítulo ..."
+subtitle = "Desenvolvendo comunidades há 50 anos"
 tags = ["tag1", "tag2"]
 title = "Vocação"
 
 +++
-![](/uploads/logo-aacc-2.png)
+![](/uploads/vocacao.png)
 
 Associação de Apoio a Criança com Câncer.
 
