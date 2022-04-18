@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hora da Vida
-subtitle: Subtítulo ...
+subtitle: Inclusão social de pessoas em situação de vulnerabilidade social por meio
+  do acesso à saúde
 URL: "/ong/horas-da-vida/"
 img: ong/horas-da-vida.jpg
 tags:
