@@ -19,6 +19,8 @@ São Paulo - SP - CEP: 01413-000 - (011) 3085-0919
 
 ## Contatos
 
-afesu@afesu.org.br 
+afesu@afesu.org.br
 
 (55+11) 3085-0919
+
+![](/uploads/afesu.png)
