@@ -1,26 +1,27 @@
 +++
-URL = "/ong/aacc/"
+URL = "/ong/heleninha/"
 categories = ["ong"]
 comment = false
-draft = true
-img = "/uploads/logo-aacc-2.png"
+img = ""
 layout = "post"
-subtitle = "Apoio a crianças com câncer"
+subtitle = "Transporte gratuito para crianças e adolescentes em tratamento de câncer"
 tags = ["tag1", "tag2"]
-title = "associacao helena picardi"
+title = "associacao helena piccardi"
 
 +++
-![](/uploads/logo-aacc-2.png)
+![](/uploads/helena.png)
 
-Associação de Apoio a Criança com Câncer.
+O Instituto Heleninha é uma organização sem fins lucrativos que desde 1999 realiza uma atividade pioneira no país: oferece o acesso ao tratamento oncológico a crianças e adolescentes com câncer e em situação de alta vulnerabilidade social na cidade de São Paulo, através do serviço de transporte da residência do paciente até o hospital e respectivo retorno, aliado a ações de apoio sociofamiliar que colaboram com a disposição, ânimo e na continuidade regular do tratamento oncológico, ampliando as chances de cura. São serviços integralmente gratuitos, confortáveis, regulares e seguros oferecidos ao paciente, cuidador e sua família.
 
 ## Localização da ONG
 
-Rua Borges Lagoa, 1603  
-Vila Clementino - CEP 04038-034 - São Paulo - SP
+Rua Joaquim Nabuco, 47  
+conjunto 12/13 1º andar  
+Brooklin, São Paulo / SP  
+CEP 04621-001
 
 ## Contatos
 
-voluntariado@aacc.org.br  
-(11) 5084-5434
-[http://www.aacc.org.br/](http://www.aacc.org.br/ "http://www.aacc.org.br/")
+servicosocial@ahpas.org.br  
+\+55 11 5535.2726 / 5531.7506
+[https://institutoheleninha.org.br/contato/](https://institutoheleninha.org.br/contato/ "https://institutoheleninha.org.br/contato/")
