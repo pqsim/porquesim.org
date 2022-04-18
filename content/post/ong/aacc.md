@@ -4,7 +4,7 @@ categories = ["ong"]
 comment = false
 img = "/uploads/logo-aacc-2.png"
 layout = "post"
-subtitle = "Subtítulo ..."
+subtitle = "Apoio a crianças com câncer"
 tags = ["tag1", "tag2"]
 title = "AACC"
 
