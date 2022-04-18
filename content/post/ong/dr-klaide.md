@@ -2,7 +2,6 @@
 URL = "/ong/vocacao/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
 subtitle = "Desenvolvendo comunidades há 50 anos"
@@ -10,9 +9,9 @@ tags = ["tag1", "tag2"]
 title = "Dr Klaide"
 
 +++
-![](/uploads/vocacao.png)
+![](/uploads/logo_drklaide.png)
 
-Associação de Apoio a Criança com Câncer.
+A Organização gera e dissemina conhecimento sobre diversas áreas como: **educação, cultura,** [**formação profissional**](https://www.instituicaodrklaide.org.br/sobre-nos/unidade-eduardo-dos-santos "Unidade 3 - Eduardo dos Santos") e [proteção social](https://www.desenvolvimentosocial.sp.gov.br/portal.php/assistencia_basica "Proteção Social").
 
 ## Localização da ONG
 
@@ -22,6 +21,6 @@ São Paulo - 05792-030
 
 ## Contatos
 
-[**info@vocacao.org.br**](mailto:info@vocacao.org.br)  
-(11) 5843-2900
-[https://www.vocacao.org.br/contato/](https://www.vocacao.org.br/contato/ "https://www.vocacao.org.br/contato/")
+doacoes@instituicaodrklaide.org.br  
+(11) 4401-4022 - (11) 3705-6216
+[https://www.instituicaodrklaide.org.br/contato](https://www.instituicaodrklaide.org.br/contato "https://www.instituicaodrklaide.org.br/contato")
