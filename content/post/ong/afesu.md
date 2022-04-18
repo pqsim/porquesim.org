@@ -9,6 +9,8 @@ tags = ["tag1", "tag2"]
 title = "AFESU"
 
 +++
+![](/uploads/afesu.png)
+
 **Educação e qualificação profissional 100% gratuita e exclusiva para mulheres,** de 8 a 24 anos,.
 
 ## Localização da ONG
@@ -21,5 +23,3 @@ São Paulo - SP - CEP: 01413-000 - (011) 3085-0919
 afesu@afesu.org.br
 
 (55+11) 3085-0919
-
-![](/uploads/afesu.png)
