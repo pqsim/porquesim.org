@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Hora da Vida"
-subtitle: "Subtítulo ..."
+title: Hora da Vida
+subtitle: Subtítulo ...
 URL: "/ong/horas-da-vida/"
-img: "ong/horas-da-vida.jpg"
-tags: ["tag1", "tag2"]
-categories: ["ong"]
+img: ong/horas-da-vida.jpg
+tags:
+- tag1
+- tag2
+categories:
+- ong
 comment: false
+
 ---
+![](/uploads/horas-vida.png)
 
 Organiza uma rede de voluntariado na área da saúde para doação de consultas e exames.
 
