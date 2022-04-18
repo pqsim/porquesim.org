@@ -1,23 +1,24 @@
 +++
-URL = "/ong/horas-da-vida/"
+URL = "/ong/afesu/"
 categories = ["ong"]
 comment = false
 draft = true
-img = "ong/horas-da-vida.jpg"
+img = ""
 layout = "post"
 subtitle = "Subtítulo ..."
 tags = ["tag1", "tag2"]
 title = "AFESU"
 
 +++
-Organiza uma rede de voluntariado na área da saúde para doação de consultas e exames.
+**Educação e qualificação profissional 100% gratuita e exclusiva para mulheres,** de 8 a 24 anos,.
 
 ## Localização da ONG
 
-Rua Ferreira de Araújo, 0
-Pinheiros - CEP 05428-000 - São Paulo - SP
+Rua Augusta, 1939 - 13º Andar, Conj. 132
+São Paulo - SP - CEP: 01413-000 - (011) 3085-0919
 
 ## Contatos
 
-[contato@horasdavida.org.br](mailto:contato@horasdavida.org.br)
-[horasdavida.org.br](https://www.horasdavida.org.br)
+afesu@afesu.org.br 
+
+(55+11) 3085-0919
