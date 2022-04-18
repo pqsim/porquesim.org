@@ -4,7 +4,7 @@ categories = ["ong"]
 comment = false
 img = ""
 layout = "post"
-subtitle = "Subtítulo ..."
+subtitle = "FORMAÇÃO QUE TRANSFORMA, HÁ MAIS DE 50 ANOS"
 tags = ["tag1", "tag2"]
 title = "AFESU"
 
