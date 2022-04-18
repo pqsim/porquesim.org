@@ -1,26 +1,26 @@
 +++
-URL = "/ong/aacc/"
+URL = "/ong/crechealvorada/"
 categories = ["ong"]
 comment = false
-draft = true
-img = "/uploads/logo-aacc-2.png"
+img = ""
 layout = "post"
-subtitle = "Apoio a crianças com câncer"
+subtitle = "Beneficiando mais de 120 jovens"
 tags = ["tag1", "tag2"]
 title = "Creche Alvorada"
 
 +++
-![](/uploads/logo-aacc-2.png)
+![](/uploads/crechealvorada.png)
 
-Associação de Apoio a Criança com Câncer.
+Apoio a jovens
 
 ## Localização da ONG
 
-Rua Borges Lagoa, 1603  
-Vila Clementino - CEP 04038-034 - São Paulo - SP
+Rua Alfredo Baldo,41 – Jd. do Trevo  
+Ribeirão Preto – SP – CEP: 14093-174
 
 ## Contatos
 
-voluntariado@aacc.org.br  
-(11) 5084-5434
-[http://www.aacc.org.br/](http://www.aacc.org.br/ "http://www.aacc.org.br/")
+[contato@crechealvorada.org](mailto:contato@crechealvorada.org)  
+(16)3617-0919 / WhatsApp (16)99745-6498
+
+[http://crechealvorada.org/inscricao/](http://crechealvorada.org/inscricao/ "http://crechealvorada.org/inscricao/")
