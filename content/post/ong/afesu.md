@@ -2,7 +2,6 @@
 URL = "/ong/afesu/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
 subtitle = "Subtítulo ..."
