@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sobre
+title: Quem somos?
 subtitle: Subtítulo ...
 comment: false
 
