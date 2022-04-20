@@ -2,7 +2,6 @@
 URL = "/ong/SOSAmazonia/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
 subtitle = "Nascemos para amar e proteger a Floresta Amazônica"
