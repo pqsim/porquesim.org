@@ -2,7 +2,6 @@
 URL = "/ong/passosmagicos/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
 subtitle = "Acreditamos em transformar vidas através da educação!"
