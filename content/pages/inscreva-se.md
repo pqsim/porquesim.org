@@ -13,7 +13,7 @@ Quinzenalmente você irá receber em seu email conteúdo focado em desenvolver h
 
 Serão 05min de leitura, com conteúdo especialmente separado por nosso time e embaixadores para ajudar você em ficar cada vez mais no controle da sua comunicação, com consciência e objetividade.
 
-[https://www.getrevue.co/profile/porquesim-org/issues/00-mvp-ponte-newsletter-1114759](https://www.getrevue.co/profile/porquesim-org/issues/00-mvp-ponte-newsletter-1114759 "https://www.getrevue.co/profile/porquesim-org/issues/00-mvp-ponte-newsletter-1114759")
+[_Inscreva-se na_ **_PONTE_**_, nossa newsletter quinzenal com conteúdo para alavancar a ponte que une os profissionais de tecnologia e de negócios. Foco em ferramentas soft skills - comunicação._](https://www.getrevue.co/profile/porquesim-org "Inscreva-se na PONTE") 
 
 ***
 
