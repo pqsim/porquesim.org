@@ -1,23 +1,26 @@
 +++
-URL = "/ong/voluntariasdemais/"
+URL = "/ong/novolarbetania/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
-subtitle = "Pequenas ações podem mudar o mundo"
+subtitle = "trabalho sócio educativo junto a crianças e adolescentes das regiões de Itaquera e Guaianazes"
 tags = []
 title = "NovoLarBetania"
 
 +++
-![](/uploads/voluntariasdemais.png)
+![](/uploads/logomarca-fundo-branco.png)
 
-Trabalho voluntário e ações transformadoras em abrigos/orfanatos de crianças e asilo de senhoras.
+"No Infinito da vida onde estamos, tudo é perfeito, pleno e completo, pois Deus é a luz e nós somos o raio desta luz” - Tio Francisco
 
 ## Localização da ONG
 
-25 abrigos
+Rua Victório Santim, 827 - Itaquera, São Paulo - SP, 08290-000
 
 ## Contatos
 
-(11) 99806-6273
+contato@novolarbetania.org.br
+
+doacao@novolarbetania.org.br
+
+(11) 2205-0209
