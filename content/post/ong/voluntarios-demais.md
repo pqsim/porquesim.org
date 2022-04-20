@@ -1,27 +1,22 @@
 +++
-URL = "/ong/vocacao/"
+URL = "/ong/voluntariasdemais/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
-subtitle = "Desenvolvendo comunidades há 50 anos"
+subtitle = "Pequenas ações podem mudar o mundo"
 tags = []
-title = "Voluntarios Demais"
+title = "Voluntarias Demais"
 
 +++
-![](/uploads/vocacao.png)
+![](/uploads/voluntariasdemais.png)
 
-Associação de Apoio a Criança com Câncer.
+Trabalho voluntário e ações transformadoras em abrigos/orfanatos de crianças e asilo de senhoras.
 
 ## Localização da ONG
 
-Rua Amacás, 243  
-Campo Limpo  
-São Paulo - 05792-030
+25 abrigos
 
 ## Contatos
 
-[**info@vocacao.org.br**](mailto:info@vocacao.org.br)  
-(11) 5843-2900
-[https://www.vocacao.org.br/contato/](https://www.vocacao.org.br/contato/ "https://www.vocacao.org.br/contato/")
+(11) 99806-6273
