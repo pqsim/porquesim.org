@@ -30,4 +30,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/Ponte Newsletter/0.2.negocios-tecnologia-entenda.md
 - content/post/Ponte Newsletter/1.voce-voce-phrase-phantastica.md
