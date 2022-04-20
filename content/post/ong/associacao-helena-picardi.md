@@ -5,7 +5,7 @@ comment = false
 img = ""
 layout = "post"
 subtitle = "Transporte gratuito para crianças e adolescentes em tratamento de câncer"
-tags = ["tag1", "tag2"]
+tags = []
 title = "associacao helena piccardi"
 
 +++
