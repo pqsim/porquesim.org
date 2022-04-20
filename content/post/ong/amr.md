@@ -2,7 +2,6 @@
 URL = "/ong/amr/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
 subtitle = "Apoio Mineira de Reabilitação"
