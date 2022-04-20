@@ -1,27 +1,23 @@
 +++
-URL = "/ong/vocacao/"
+URL = "/ong/bairrodajuventude/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
-subtitle = "Desenvolvendo comunidades há 50 anos"
+subtitle = " Inspirar nas pessoas o desejo de transformar o mundo."
 tags = []
 title = "BairroDaJuventude"
 
 +++
-![](/uploads/vocacao.png)
+![](/uploads/bairrodajuventude.png)
 
-Associação de Apoio a Criança com Câncer.
+Promover, por meio da educação e assistência social, a garantia de direitos para crianças, adolescentes, jovens e suas famílias
 
 ## Localização da ONG
 
-Rua Amacás, 243  
-Campo Limpo  
-São Paulo - 05792-030
+Rua Cônego Anibal Maria di Francia, 1483 - Pinheirinho - Criciúma/SC
 
 ## Contatos
 
-[**info@vocacao.org.br**](mailto:info@vocacao.org.br)  
-(11) 5843-2900
-[https://www.vocacao.org.br/contato/](https://www.vocacao.org.br/contato/ "https://www.vocacao.org.br/contato/")
+Fone: **(48) 3403-2700** ou **(48) 3439-9900**  
+E-mail: [**bairro@bairrodajuventude.org.br/**](mailto:bairro@bairrodajuventude.org.br) | [**imprensa@bairrodajuventude.org.br**](mailto:imprensa@bairrodajuventude.org.br)
