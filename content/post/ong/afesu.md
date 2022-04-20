@@ -5,7 +5,7 @@ comment = false
 img = ""
 layout = "post"
 subtitle = "FORMAÇÃO QUE TRANSFORMA, HÁ MAIS DE 50 ANOS"
-tags = ["tag1", "tag2"]
+tags = []
 title = "AFESU"
 
 +++
