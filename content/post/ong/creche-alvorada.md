@@ -5,7 +5,7 @@ comment = false
 img = ""
 layout = "post"
 subtitle = "Beneficiando mais de 120 jovens"
-tags = ["tag1", "tag2"]
+tags = []
 title = "Creche Alvorada"
 
 +++
