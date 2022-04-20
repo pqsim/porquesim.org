@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quem somos?
-subtitle: Subtítulo ...
+subtitle: Fomentando conhecimento
 comment: false
 
 ---
@@ -13,7 +13,7 @@ Já sabe Por Que está aqui?
 
 O porquesim.org nasceu em **2017** para ser o **ELO** de ligação entre voluntários e ONGs idôneas, conectando-os por meio de nossa plataforma.
 
-Acreditamos que o conhecimento deve ser fomentado e compartilhado, pois ajuda no desenvolvimento da consciência e é uma das ferramentas para ter independência (pensar, financeira, vida etc). 
+Acreditamos que o conhecimento deve ser fomentado e compartilhado, pois ajuda no desenvolvimento da consciência e é uma das ferramentas para ter independência (pensar, financeira, vida, profissional, família etc). 
 
 Iniciamos compartilhando o conhecimento entre voluntários ávidos para ajudar e ONGs com demandas específicas sem meios de atrair ajuda.
 
@@ -49,7 +49,7 @@ Formado em Economia pela PUC-RJ, com MBA em Finanças no INSPER SP e MBA Interna
 
 ### Ricardo Tanaka - Conselheiro e Co-Fundador
 
-Profissional e empreendedor com mais de 08 anos de atuação, ocupando posições de liderança em grandes empresas e lançando Startups. Como voluntário, participa ativamente de diversos projetos sociais.
+Profissional e empreendedor com mais de 08 anos de atuação, ocupando posições de liderança em grandes empresas nas áreas de tecnologia e lançando Startups. Como voluntário, participa ativamente de diversos projetos sociais.
 
 Organizador de bazares e eventos beneficentes de fund raising para projetos sociais.
 
@@ -57,7 +57,7 @@ Formado em Engenharia da Computação pela FSA, com extensão e especialização
 
 ### Adnan Nesser Junior - Tesoureiro e Co-Fundador
 
-Empreendedor com mais de 20 anos de atuação no mercado de Startups e Marketing Digital, Elaborou planos de negócios, sites, estratégia de posicionamento e planejamento de SEO para ONGs como Endeavor e CHESP.
+Empreendedor com mais de 20 anos de atuação no mercado de Startups e Marketing Digital, Elaborou planos de negócios, sites, estratégia de posicionamento e planejamento de SEO também para ONGs como Endeavor e CHESP.
 
 Como voluntário, apoia o CHESP e APAE Arujá.
 
@@ -73,10 +73,10 @@ Roger Eduardo Galdino
 
 Antônio Napole
 
-Silvana Machado
-
 David Wong
 
 Nelson Takechi Hatae
 
 Thiago Avelino
+
+Silvana Machado
