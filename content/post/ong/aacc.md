@@ -5,7 +5,7 @@ comment = false
 img = "/uploads/logo-aacc-2.png"
 layout = "post"
 subtitle = "Apoio a crianças com câncer"
-tags = ["tag1", "tag2"]
+tags = []
 title = "AACC"
 
 +++
