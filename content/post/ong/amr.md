@@ -1,26 +1,25 @@
 +++
-URL = "/ong/aacc/"
+URL = "/ong/amr/"
 categories = ["ong"]
 comment = false
 draft = true
-img = "/uploads/logo-aacc-2.png"
+img = ""
 layout = "post"
-subtitle = "Apoio a crianças com câncer"
+subtitle = "Apoio Mineira de Reabilitação"
 tags = ["tag1", "tag2"]
 title = "AMR"
 
 +++
-![](/uploads/logo-aacc-2.png)
+![](/uploads/amr.png)
 
-Associação de Apoio a Criança com Câncer.
+Associação Mineira de Reabilitação.
 
 ## Localização da ONG
 
-Rua Borges Lagoa, 1603  
-Vila Clementino - CEP 04038-034 - São Paulo - SP
+Rua Prof. Otávio Coelho de Magalhães, 111 – Mangabeiras  
+Belo Horizonte, MG – CEP: 30210-300
 
 ## Contatos
 
-voluntariado@aacc.org.br  
-(11) 5084-5434
-[http://www.aacc.org.br/](http://www.aacc.org.br/ "http://www.aacc.org.br/")
+0800 72 71 347 | (31) 3304-1300 |   
+comunicacao@amr.org.br
