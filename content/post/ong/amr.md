@@ -5,7 +5,7 @@ comment = false
 img = ""
 layout = "post"
 subtitle = "Apoio Mineira de Reabilitação"
-tags = ["tag1", "tag2"]
+tags = []
 title = "AMR"
 
 +++
