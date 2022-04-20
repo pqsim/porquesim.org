@@ -5,9 +5,7 @@ subtitle: Inclusão social de pessoas em situação de vulnerabilidade social po
   do acesso à saúde
 URL: "/ong/horas-da-vida/"
 img: ong/horas-da-vida.jpg
-tags:
-- tag1
-- tag2
+tags: []
 categories:
 - ong
 comment: false
