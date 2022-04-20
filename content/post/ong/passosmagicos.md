@@ -1,27 +1,26 @@
 +++
-URL = "/ong/vocacao/"
+URL = "/ong/passosmagicos/"
 categories = ["ong"]
 comment = false
 draft = true
 img = ""
 layout = "post"
-subtitle = "Desenvolvendo comunidades há 50 anos"
+subtitle = "Acreditamos em transformar vidas através da educação!"
 tags = []
 title = "PassosMagicos"
 
 +++
-![](/uploads/vocacao.png)
+![](/uploads/passos-magicos-icon-cor.png)
 
-Associação de Apoio a Criança com Câncer.
+**Acreditamos em transformar vidas através da educação!**
 
 ## Localização da ONG
 
-Rua Amacás, 243  
-Campo Limpo  
-São Paulo - 05792-030
+Rua Martinho Jacob Kremer, 120  
+Jd. Japão, SP | CEP: 04918-010
 
 ## Contatos
 
-[**info@vocacao.org.br**](mailto:info@vocacao.org.br)  
-(11) 5843-2900
-[https://www.vocacao.org.br/contato/](https://www.vocacao.org.br/contato/ "https://www.vocacao.org.br/contato/")
+Associação Passos Mágicos  
+(11) 98208-3282  
+passosmagicos@passosmagicos.com.br
