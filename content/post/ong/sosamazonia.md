@@ -1,18 +1,18 @@
 +++
-URL = "/ong/vocacao/"
+URL = "/ong/SOSAmazonia/"
 categories = ["ong"]
 comment = false
 draft = true
 img = ""
 layout = "post"
-subtitle = "Desenvolvendo comunidades há 50 anos"
+subtitle = "Nascemos para amar e proteger a Floresta Amazônica"
 tags = []
 title = "SOSAmazonia"
 
 +++
-![](/uploads/vocacao.png)
+![](/uploads/sosamazonia.png)
 
-Associação de Apoio a Criança com Câncer.
+Promovemos a conservação da Biodiversidade e o Crescimento da Consciência Ambiental na Amazônia.
 
 ## Localização da ONG
 
@@ -22,6 +22,10 @@ São Paulo - 05792-030
 
 ## Contatos
 
-[**info@vocacao.org.br**](mailto:info@vocacao.org.br)  
-(11) 5843-2900
-[https://www.vocacao.org.br/contato/](https://www.vocacao.org.br/contato/ "https://www.vocacao.org.br/contato/")
+[https://sosamazonia.org.br/voluntariado](https://sosamazonia.org.br/voluntariado "https://sosamazonia.org.br/voluntariado")
+
+Rua Pará, 61 Bairro: Habitasa
+
+Rio Branco - AC / CEP: 69.905-082
+
+Fique por dentro do que acontece na SOS Amazônia+55 (68) 3223.1036
