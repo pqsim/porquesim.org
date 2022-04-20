@@ -1,27 +1,23 @@
 +++
-URL = "/ong/vocacao/"
+URL = "/ong/associacaopratocheio/"
 categories = ["ong"]
 comment = false
-draft = true
 img = ""
 layout = "post"
-subtitle = "Desenvolvendo comunidades há 50 anos"
-tags = ["tag1", "tag2"]
+subtitle = "PROMOVER O ACESSO À ALIMENTAÇÃO ADEQUADA E COMBATER O DESPERDÍCIO DE ALIMENTOS"
+tags = []
 title = "Associacao prato cheio"
 
 +++
-![](/uploads/vocacao.png)
+![](/uploads/cropped-copia-de-associacao-prato-cheio-2.png)
 
-Associação de Apoio a Criança com Câncer.
+Associação Prato Cheio.
 
 ## Localização da ONG
 
-Rua Amacás, 243  
-Campo Limpo  
-São Paulo - 05792-030
+Rua Luis Coelho, 308 – Sala 25 – Consolação, São Paulo – SP
 
 ## Contatos
 
-[**info@vocacao.org.br**](mailto:info@vocacao.org.br)  
-(11) 5843-2900
-[https://www.vocacao.org.br/contato/](https://www.vocacao.org.br/contato/ "https://www.vocacao.org.br/contato/")
+* Telefone: (11) 97480-2894
+* E-Mail: info@pratocheio.org.br
