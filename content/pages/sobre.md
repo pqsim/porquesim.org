@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quem somos?
-subtitle: Fomentando conhecimento
+subtitle: Fomentando conhecimento para alavancar a ponte entre Tecnologia e Negócios
 comment: false
 
 ---
