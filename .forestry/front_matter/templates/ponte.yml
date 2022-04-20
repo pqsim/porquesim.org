@@ -1,4 +1,19 @@
 ---
 label: Ponte
 hide_body: false
-fields: []
+fields:
+- name: titulo
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  hidden: false
+  label: Título
+- name: conteudo
+  type: text
+  config:
+    required: false
+  label: Conteúdo
