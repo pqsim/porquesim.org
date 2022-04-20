@@ -1,19 +1,23 @@
 ---
 layout: post
 title: Sobre
-subtitle: Quem Somos?
+subtitle: Subtítulo ...
 comment: false
 
 ---
+Porque imaginamos um Novo Mundo, onde as desigualdades passam a não mais existir, onde diferenças de credo, raças, fronteiras e ideologias não promovem separações entre as pessoas. Porque somos Um. Porque somos Livres. Porque SIM.
+
+Já sabe Por Que está aqui?
+
 ## Quem Somos?
 
-O porquesim.org nasceu em 2017 para ser o **ELO** de ligação entre voluntários e ONGs idôneas, conectando-os por meio de nossa plataforma. 
+O porquesim.org nasceu em 2017 para ser o **ELO** de ligação entre voluntários e ONGs idôneas, conectando-os por meio de nossa plataforma.
 
-Acreditamos que o conhecimento deve ser fomentado e compartilhado, pois ajuda no desenvolvimento da consciência e é uma das ferramentas para ter independência (pensar, financeira, vida etc). Iniciamos compartilhando o conhecimento entre voluntários ávidos para ajudar e ONGs com demandas específicas sem meios de atrair ajuda. 
+Acreditamos que o conhecimento deve ser fomentado e compartilhado, pois ajuda no desenvolvimento da consciência e é uma das ferramentas para ter independência (pensar, financeira, vida etc). Iniciamos compartilhando o conhecimento entre voluntários ávidos para ajudar e ONGs com demandas específicas sem meios de atrair ajuda.
 
-Em 2022 passamos a focar em compartilhar o conhecimento que nossos sócios e embaixadores adquiriram sendo a **PONTE** entre Negócios <-> Tecnologia com atuando com desenvolvimento de soft skills (comunicação) ajudando Times <-> Gestores e Você <-> Você. por meio de uma news letter quinzenal (ponte) 
+Em 2022 passamos a focar em compartilhar o conhecimento que nossos sócios e embaixadores adquiriram sendo a **PONTE** entre Negócios <-> Tecnologia com atuando com desenvolvimento de soft skills (comunicação) ajudando Times <-> Gestores e Você <-> Você. por meio de uma news letter quinzenal (ponte)
 
-Estas "duas unidades de negócios" (elo e ponte) devem se somar a outras iniciativas até 2026, onde o porquesim.org se tornará uma Social Venture Capital focada no mercado #WeThe15.
+Estas “duas unidades de negócios” (elo e ponte) devem se somar a outras iniciativas até 2026, onde o porquesim.org se tornará uma Social Venture Capital focada no mercado #WeThe15.
 
 ## Sócios Fundadores e Embaixadores
 
@@ -21,7 +25,7 @@ Estas "duas unidades de negócios" (elo e ponte) devem se somar a outras iniciat
 
 Executivo com mais de 16 anos de atuação conduzindo projetos digitais em consultoria de alta gestão e estratégia. Também liderou áreas operacionais e financeiras em telecom e foi COO em empresas de inteligência artificial e desenvolvimento de softwares e aplicações. Sempre implantou, como voluntário, a diversas ações e práticas sociais nas empresas que trabalhou.
 
-Apoiador do PQTecSJC, Supera XP, FGV-CENN, Insper Empreend e ESPM. 
+Apoiador do PQTecSJC, Supera XP, FGV-CENN, Insper Empreend e ESPM.
 
 Formado em Administração de Empresas pela EAESP-FGV com MBA em Gestão do Luxo pela FAAP-SP e especialização em Administração Internacional pela HEC-France. De 2002 a 2004, atuou como guitarrista da banda N.A.Hostil.
 
