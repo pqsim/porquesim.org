@@ -5,7 +5,7 @@ comment = false
 img = ""
 layout = "post"
 subtitle = "Desenvolvendo comunidades há 50 anos"
-tags = ["tag1", "tag2"]
+tags = []
 title = "Dr Klaide"
 
 +++
