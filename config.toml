@@ -46,8 +46,8 @@ home = ["HTML", "RSS"]
   github         = "https://github.com/pqsim"
 
   [[params.addtional_menus]]
-  title =  "Sobre"
-  href =  "/pages/sobre/"
+  title =  "Quem Somos"
+  href =  "/pages/quem-somos/"
 
   [[params.addtional_menus]]
   title =  "Inscreva-se"
