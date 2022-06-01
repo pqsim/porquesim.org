@@ -1,5 +1,5 @@
 +++
-URL = "/ponte/news00/05"
+URL = "/ponte/lancamento"
 author = "Alexandre Hatae"
 categories = ["Negócios", "Tecnologia"]
 date = 2022-06-01T03:00:00Z
