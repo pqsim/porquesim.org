@@ -2,7 +2,7 @@
 URL = "/ponte/news00/05"
 author = "Alexandre Hatae"
 categories = ["Negócios", "Tecnologia"]
-date = 2022-04-20T03:00:00Z
+date = 2022-06-01T03:00:00Z
 image = "/uploads/logo-com-texto.png"
 layout = "post"
 subtitle = "Inscreva-se! Lançamento em 03jun22."
