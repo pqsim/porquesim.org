@@ -3,7 +3,6 @@ URL = "/ponte/news00/05"
 author = "Alexandre Hatae"
 categories = ["Negócios", "Tecnologia"]
 date = 2022-04-20T03:00:00Z
-draft = true
 image = "/uploads/logo-com-texto.png"
 layout = "post"
 subtitle = "Estudando o passado para entender o presente e se prepara para o futuro"
@@ -13,18 +12,18 @@ title = "LANÇAMENTO oficial PONTE Newsletter"
 +++
 ![](/uploads/logo-com-texto.png)
 
-# #00 - mvp - PONTE - Newsletter
+# PONTE - Newsletter
 
 ## Somos a PONTE entre Negócios ↔ Tecnologia, Gestores ↔ Times e Você ↔ Você.
 
-É com muito orgulho e honra que hoje, estamos lançando nossa newsletter quinzenal para ajudar você no desenvolvimento de sua vida e de sua carreira com foco em Comunicação e outros temas não-técnicos.
+O [porquesim.org](http://porquesim.org) nasceu em 2017 para CONECTAR voluntários e ONGs idôneas.
 
-5min de leitura
+Em abr22, o [porquesim.org](http://porquesim.org) aproveitou a experiência de seus fundadores e embaixadores e decidiu agora CONECTAR negócios e tecnologia por meio de uma PONTE - newsletter quinzenal compartilhando conteúdo e ferramentas para alavancar cada vez mais a comunicação positiva entre gestores, times e pessoas.
 
-**6. Inspire Outros**
+Lançaremos a PONTE, uma newsletter quinzenal de 5min de leitura e muita reflexão com conteúdo gratuito para ajudar nesta formação.
 
-Horas da Vida - saiba que você pode ajudar ONGs mesmo que seja de forma não financeira. Tempo e conhecimento também são fundamentais para quem precisa de ajuda.
+[Inscreva-se e divulgue, nos ajudando a fomentar o conhecimento neste ecossistema!](https://www.getrevue.co/profile/porquesim-org "Inscreva-se na PONTE")
 
-[https://www.horasdavida.org.br/oquefaznossovoluntario?lang=en&utm_campaign=ponTe&utm_medium=email&utm_source=Revue%20newsletter](https://www.horasdavida.org.br/oquefaznossovoluntario?lang=en&utm_campaign=ponTe&utm_medium=email&utm_source=Revue%20newsletter "https://www.horasdavida.org.br/oquefaznossovoluntario?lang=en&utm_campaign=ponTe&utm_medium=email&utm_source=Revue%20newsletter")
+Valeu! Abs. Time porquesim.org
 
-[_Inscreva-se na_ **_PONTE_**_, nossa newsletter quinzenal com conteúdo para alavancar a ponte que une os profissionais de tecnologia e de negócios. Foco em ferramentas soft skills - comunicação._](https://www.getrevue.co/profile/porquesim-org "Inscreva-se na PONTE")
+Alexandre Hatae
