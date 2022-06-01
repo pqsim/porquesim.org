@@ -1,0 +1,30 @@
++++
+URL = "/ponte/news00/05"
+author = "Alexandre Hatae"
+categories = ["Negócios", "Tecnologia"]
+date = 2022-04-20T03:00:00Z
+draft = true
+image = "/uploads/logo-com-texto.png"
+layout = "post"
+subtitle = "Estudando o passado para entender o presente e se prepara para o futuro"
+tags = ["Você com Você", "news00"]
+title = "LANÇAMENTO oficial PONTE Newsletter"
+
++++
+![](/uploads/logo-com-texto.png)
+
+# #00 - mvp - PONTE - Newsletter
+
+## Somos a PONTE entre Negócios ↔ Tecnologia, Gestores ↔ Times e Você ↔ Você.
+
+É com muito orgulho e honra que hoje, estamos lançando nossa newsletter quinzenal para ajudar você no desenvolvimento de sua vida e de sua carreira com foco em Comunicação e outros temas não-técnicos.
+
+5min de leitura
+
+**6. Inspire Outros**
+
+Horas da Vida - saiba que você pode ajudar ONGs mesmo que seja de forma não financeira. Tempo e conhecimento também são fundamentais para quem precisa de ajuda.
+
+[https://www.horasdavida.org.br/oquefaznossovoluntario?lang=en&utm_campaign=ponTe&utm_medium=email&utm_source=Revue%20newsletter](https://www.horasdavida.org.br/oquefaznossovoluntario?lang=en&utm_campaign=ponTe&utm_medium=email&utm_source=Revue%20newsletter "https://www.horasdavida.org.br/oquefaznossovoluntario?lang=en&utm_campaign=ponTe&utm_medium=email&utm_source=Revue%20newsletter")
+
+[_Inscreva-se na_ **_PONTE_**_, nossa newsletter quinzenal com conteúdo para alavancar a ponte que une os profissionais de tecnologia e de negócios. Foco em ferramentas soft skills - comunicação._](https://www.getrevue.co/profile/porquesim-org "Inscreva-se na PONTE")
