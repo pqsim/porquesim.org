@@ -5,8 +5,8 @@ categories = ["Negócios", "Tecnologia"]
 date = 2022-04-20T03:00:00Z
 image = "/uploads/logo-com-texto.png"
 layout = "post"
-subtitle = "Estudando o passado para entender o presente e se prepara para o futuro"
-tags = ["Você com Você", "news00"]
+subtitle = "Inscreva-se! Lançamento em 03jun22."
+tags = []
 title = "LANÇAMENTO oficial PONTE Newsletter"
 
 +++
