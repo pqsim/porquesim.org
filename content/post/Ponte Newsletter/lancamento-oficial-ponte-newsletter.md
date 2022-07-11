@@ -1,12 +1,12 @@
 +++
 URL = "/ponte/lancamento"
 author = "Alexandre Hatae"
-categories = ["Negócios", "Tecnologia"]
+categories = ["Ponte Tecnologia", "Ponte Negócios"]
 date = 2022-06-01T03:00:00Z
 image = "/uploads/logo-ponte-fundo.png"
 layout = "post"
 subtitle = "Inscreva-se! Lançamento em 03jun22."
-tags = []
+tags = ["News01"]
 title = "LANÇAMENTO oficial PONTE Newsletter"
 
 +++
