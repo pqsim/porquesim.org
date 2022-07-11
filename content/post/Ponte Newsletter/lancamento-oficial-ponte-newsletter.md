@@ -7,7 +7,7 @@ image = "/uploads/logo-ponte-fundo.png"
 layout = "post"
 subtitle = "Inscreva-se! Lançamento em 03jun22."
 tags = ["News01"]
-title = "LANÇAMENTO oficial PONTE Newsletter"
+title = "1.0. LANÇAMENTO oficial PONTE Newsletter"
 
 +++
 ![](/uploads/logo-com-texto.png)
