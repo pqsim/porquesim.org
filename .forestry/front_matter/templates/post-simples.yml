@@ -30,6 +30,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/Ponte Newsletter/0.0.ponte-newsletter-bem-vindo.md
 - content/post/Ponte Newsletter/0.2.negocios-tecnologia-entenda.md
 - content/post/Ponte Newsletter/0.2.negocios-tecnologia-entenda.md
 - content/post/Ponte Newsletter/0.3.gestor-time-inspire-se.md
